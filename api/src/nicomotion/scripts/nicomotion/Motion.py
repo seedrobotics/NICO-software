@@ -16,6 +16,7 @@ from pypot.vrep.remoteApiBindings import vrep as remote_api
 
 from _nicomotion_internal.RH4D_hand import RH4DHand
 from _nicomotion_internal.RH5D_hand import RH5DHand
+from _nicomotion_internal.RH6D_hand import RH6DHand
 from _nicomotion_internal.RH7D_hand import RH7DHand
 
 
